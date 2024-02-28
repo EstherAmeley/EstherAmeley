@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EstherAmeley
-- 👀 I’m interested in Artificial Intelligence, project management and Communication
-- 🌱 I’m currently learning AI and data analytics
+- 👀 I’m interested in Data Analytics, Data Science, project management and Communication
+- 🌱 I’m currently learning data science and data analytics
 - 💞️ I’m looking to collaborate on project management, projects relating to data analytics and AI
 - 📫 How to reach me https://www.linkedin.com/in/esther-mensah-b8b05111b/
 - 😄 Pronouns: She
